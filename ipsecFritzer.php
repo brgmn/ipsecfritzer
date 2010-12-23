@@ -131,7 +131,7 @@ $configData.= $footerTemplate;
 //write config file
 $configFileHandle = @fopen('output/'.$filename, "w") or die("Error while creating the config file");
 @fwrite($configFileHandle,$configData) or die("Error while writing the config file");
-@fclose(configFileHandle);
+@fclose($configFileHandle);
 
 echo 'FritzBox!-VPN-Config succesfully written.'."\n\n";
 
