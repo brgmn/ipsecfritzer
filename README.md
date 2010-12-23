@@ -10,5 +10,5 @@ Just use the native iOS and Mac OS X VPN clients to connect to your integrated F
 
 #### Links
 
-Howto Connect your iPhone/Mac OS X device
-http://www.avm.de/de/Service/Service-Portale/Service-Portal/VPN_Interoperabilitaet/16206.php
+How to connect your iPhone/Mac OS X device
+link: http://www.avm.de/de/Service/Service-Portale/Service-Portal/VPN_Interoperabilitaet/16206.php
